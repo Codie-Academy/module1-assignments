@@ -7,7 +7,7 @@
 4. Create a Pull Request
 5. Wait for the result
 
-### Module1 Assignments
+### Module2 Assignments
 Within this repository, you will discover all the assignments for Module 1 of the iOS training course. We encourage you to attempt these assignments independently, primarily referring to the official documentation as your resource.
 
 Compose your code within an Xcode Playground and ensure that the output is accurate.
